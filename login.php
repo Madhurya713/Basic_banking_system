@@ -74,7 +74,7 @@
 </head>
 <body style="background: url(images/nature.jpg);background-size: 100%">
 <h1 class="alert alert-secondary" role="alert"><?php echo bankName; ?></h1>
-<h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>WELCOME TO MF BANK </b><h1>
+<h1> <b>WELCOME TO MF BANK </b><h1>
 <br>
 <h3>MF Bank is one of the Best public sector banks owned by the Private Company.</h3>
 <p>MF bank is a financial institution licensed to receive deposits and make loans.<Br> MF Banks also provide financial services such as wealth management, currency exchange, and safe deposit boxes.</p>
@@ -83,7 +83,7 @@
 
 <?php echo $error ?>
 <br>
-<div id="accordion" role="tablist" class="w-25 float-right shadowBlack" style="margin-right: 222px">
+<div id="accordion" role="tablist" class="w-25 float-right shadowBlack" style="margin-right: 650px">
 	<br><h4 class="text-center text-white">Select Your Session</h4>
   <div class="card rounded-0">
     <div class="card-header" role="tab" id="headingOne">
