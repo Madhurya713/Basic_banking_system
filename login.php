@@ -84,7 +84,7 @@
 <?php echo $error ?>
 <br>
 <div id="accordion" role="tablist" class="w-25 float-right shadowBlack" style="margin-right: 650px">
-	<br><h4 class="text-center text-white">Select Your Session</h4>
+	<br><h4 class="text-center text-black">Select Your Session</h4>
   <div class="card rounded-0">
     <div class="card-header" role="tab" id="headingOne">
       <h5 class="mb-0">
